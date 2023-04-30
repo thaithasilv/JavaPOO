@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thais
+ *
+ */
+module course {
+}
